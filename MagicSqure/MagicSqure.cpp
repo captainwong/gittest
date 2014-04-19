@@ -52,11 +52,12 @@ void GenerateMagicSqure(int n){
 void ShowMagicSqure(int n){
 	for(int i = 0; i < n; i++){
 		for(int j = 0; j < n; j++){
-			_tprintf(_T("%d "), magic_arr[i][j]);
+			_tprintf(_T("%3d\t"), magic_arr[i][j]);
 		}
 		_tprintf(_T("\n"));
 	}
 }
+
 int _tmain(int argc, _TCHAR* argv[])
 {
 START:
