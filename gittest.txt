@@ -6,4 +6,4 @@ master.
 feature1
 --no-ff
 
-this is the bug to be fixedsadfasdafsd.
+this is the bug to be fixed.
