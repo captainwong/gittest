@@ -1,0 +1,58 @@
+# Compiled Object files
+.slo
+.lo
+.o
+.obj
+
+# vs 2012
+.sdf
+.sln
+.suo
+.ipch
+.ilk
+.pdb
+.map
+.vcxproj
+.filters
+
+# vc6
+.dsp
+.dsw
+.ncb
+.opt
+.nsi
+.plg
+.manifest
+
+# graph
+.bmp
+.jpg
+.jpeg
+.jpe
+.jifi
+.gif
+.ico
+.png
+.dib
+.tif
+.tiff
+
+# Compiled Dynamic libraries
+.so
+.dylib
+.dll
+
+# Compiled Static libraries
+.lai
+.la
+.a
+.lib
+
+# Executables
+.exe
+.out
+.app
+
+# Database files
+.mdb
+.ldb
