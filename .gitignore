@@ -16,6 +16,7 @@
 *.filters
 *.log
 *.pd_
+debug/
 
 # vc6
 *.dsp
