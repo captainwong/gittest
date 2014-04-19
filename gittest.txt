@@ -5,3 +5,5 @@ branch dev.
 master.
 feature1
 --no-ff
+
+this is the bug to be fixedsadfasdafsd.
